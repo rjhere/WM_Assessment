@@ -1,7 +1,7 @@
 # WM_Assessment
 The PPT file contains my responses to all the question.
 
-You can find the SQL queries in the Q1-4 folder alongwith supporting document
+The SQL queries for Questions 1 through 4 are in Q1-4
 
-The Python script for Q8 is in the folder names Q8
+The Python script for Q8 is in the folder named Q8
 
